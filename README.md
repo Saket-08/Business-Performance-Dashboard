@@ -5,19 +5,19 @@ This project demonstrates my hands-on skills in data analysis using Microsoft Ex
 ![Excel Dashboard](dashboard_preview.png)
 
 ### Key Features:
-.Data cleaning and structuring in Excel
+- Data cleaning and structuring in Excel
 
-.Pivot Tables for dynamic analysis
+- Pivot Tables for dynamic analysis
 
-.KPI-based insights and summaries
+- KPI-based insights and summaries
 
-.Interactive dashboard for quick decision-making
+- Interactive dashboard for quick decision-making
 
-.MIS-style reporting format
+- MIS-style reporting format
 
 ### Tools Used:
--Microsoft Excel
+- Microsoft Excel
 
--Pivot Tables
+- Pivot Tables
 
--Charts & Visualizations
+- Charts & Visualizations
